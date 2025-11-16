@@ -17,6 +17,6 @@ Ah, I am actively improving my English proficiency through weekly private lesson
 
 Feel free to check out my work or connect with me:
 
-* **LinkedIn:** [matheusvins](https://www.linkedin.com/in/matheusvins)
+* **LinkedIn:** [matheusvlns](https://www.linkedin.com/in/matheusvlns)
 * **Email:** [asmatheuscorp@gmail.com](mailto:asmatheuscorp@gmail.com)
 * **Personal Blog:** [matheusvlns.com](https://matheusvlns.com)
