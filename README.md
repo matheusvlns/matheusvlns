@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hey there, I'm Matheus Souza. 👋
 
-<!--
-**matheusvlns/matheusvlns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Infrastructure Analyst with **7+ years of experience**, and I am actively transitioning my career toward **DevOps & SRE**.
 
-Here are some ideas to get you started:
+I am now focusing my studies and projects on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Containers & Orchestration:** Kubernetes and Docker
+* **IaC:** Terraform
+* **CI/CD:** Azure DevOps
+* **Automation:** Shell Script & Python
+
+What excites me about DevOps is the power of automation and building resilient, cloud-native systems.
+
+During my spare time, I'm usually studying for new certifications or applying those skills to the projects you'll find here. I also enjoy watching soccer (as a Vasco da Gama fan) and occasionally playing video games.
+
+Ah, I am actively improving my English proficiency through weekly private lessons.
+
+Feel free to check out my work or connect with me:
+
+* **LinkedIn:** [matheusvins](https://www.linkedin.com/in/matheusvins)
+* **Email:** [asmatheuscorp@gmail.com](mailto:asmatheuscorp@gmail.com)
+* **Personal Blog:** [matheusvlns.com](https://matheusvlns.com)
